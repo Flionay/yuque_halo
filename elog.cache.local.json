@@ -3,17 +3,17 @@
     {
       "id": 186564254,
       "doc_id": "lugtgezwcpgst75z",
-      "updated": 1726645994000,
+      "updated": 1726657872000,
       "properties": {
         "title": "neovim 快速配置与极速入门",
         "urlname": "lugtgezwcpgst75z",
         "date": "2024-09-14 13:32:02",
-        "updated": "2024-09-18 15:53:14",
-        "cover": "https://cdn.nlark.com/yuque/0/2024/png/2637180/1704448481743-b930ecf6-1b5e-4a04-a4fe-f16f69320364.png",
-        "over": "https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2024/iShot_2024-09-14_14.48.01.png",
+        "updated": "2024-09-18 19:11:12",
+        "cover": "https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2024/1_sr7bPYHFkVXZg-TlxqrgTg.webp",
         "categories": "系统",
         "tags": "linux",
-        "publish": false
+        "publish": true,
+        "autoExcerpt": true
       },
       "catalog": [
         {
@@ -24,15 +24,50 @@
       "realName": "neovim 快速配置与极速入门",
       "relativePath": "/neovim 快速配置与极速入门.md",
       "docPath": "./docs"
+    },
+    {
+      "id": 186553521,
+      "doc_id": "oyto5i7wxqb4x7g0",
+      "updated": 1726657865000,
+      "properties": {
+        "title": "终端复用工具tmux简介及常用快捷键",
+        "urlname": "oyto5i7wxqb4x7g0",
+        "date": "2024-09-14 11:22:44",
+        "updated": "2024-09-18 19:11:05",
+        "cover": "https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2024/iShot_2024-09-14_14.48.01.png",
+        "categories": "系统",
+        "tags": "linux",
+        "publish": true,
+        "autoExcerpt": true
+      },
+      "catalog": [],
+      "realName": "终端复用工具tmux简介及常用快捷键",
+      "relativePath": "/终端复用工具tmux简介及常用快捷键.md",
+      "docPath": "./docs"
     }
   ],
   "catalog": [
+    {
+      "type": "DOC",
+      "title": "终端复用工具tmux简介及常用快捷键",
+      "uuid": "FlWEaq7-3rPe_E35",
+      "url": "oyto5i7wxqb4x7g0",
+      "prev_uuid": "",
+      "sibling_uuid": "usUGUGIrgim6i9jM",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 186553521,
+      "level": 0,
+      "id": 186553521,
+      "open_window": 1,
+      "visible": 1
+    },
     {
       "type": "TITLE",
       "title": "软件",
       "uuid": "usUGUGIrgim6i9jM",
       "url": "",
-      "prev_uuid": "",
+      "prev_uuid": "FlWEaq7-3rPe_E35",
       "sibling_uuid": "NA2x-Mr62zB4-nFO",
       "child_uuid": "wXvgRQ1Ri30FZsT9",
       "parent_uuid": "",
