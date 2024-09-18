@@ -44,32 +44,45 @@
       "realName": "终端复用工具tmux简介及常用快捷键",
       "relativePath": "/终端复用工具tmux简介及常用快捷键.md",
       "docPath": "./docs"
+    },
+    {
+      "id": 186997290,
+      "doc_id": "rw9pet6kloggaehv",
+      "updated": 1726664311000,
+      "properties": {
+        "title": "语雀文章自动同步到博客-Elog+GithubAction）",
+        "urlname": "rw9pet6kloggaehv",
+        "date": "2024-09-18 20:15:12",
+        "updated": "2024-09-18 20:58:31",
+        "categories": "软件",
+        "tags": [
+          "Halo",
+          "blog"
+        ],
+        "publish": true,
+        "autoExcerpt": true,
+        "cover": "https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2024/iShot_2024-09-18_20.30.04.png"
+      },
+      "catalog": [
+        {
+          "title": "软件",
+          "doc_id": "rw9pet6kloggaehv"
+        }
+      ],
+      "realName": "语雀文章自动同步到博客-Elog+GithubAction）",
+      "relativePath": "/语雀文章自动同步到博客-Elog+GithubAction）.md",
+      "docPath": "./docs"
     }
   ],
   "catalog": [
-    {
-      "type": "DOC",
-      "title": "终端复用工具tmux简介及常用快捷键",
-      "uuid": "FlWEaq7-3rPe_E35",
-      "url": "oyto5i7wxqb4x7g0",
-      "prev_uuid": "",
-      "sibling_uuid": "usUGUGIrgim6i9jM",
-      "child_uuid": "",
-      "parent_uuid": "",
-      "doc_id": 186553521,
-      "level": 0,
-      "id": 186553521,
-      "open_window": 1,
-      "visible": 1
-    },
     {
       "type": "TITLE",
       "title": "软件",
       "uuid": "usUGUGIrgim6i9jM",
       "url": "",
-      "prev_uuid": "FlWEaq7-3rPe_E35",
+      "prev_uuid": "",
       "sibling_uuid": "NA2x-Mr62zB4-nFO",
-      "child_uuid": "wXvgRQ1Ri30FZsT9",
+      "child_uuid": "flI4eu3rX5m1DjVG",
       "parent_uuid": "",
       "doc_id": "",
       "level": 0,
@@ -79,16 +92,46 @@
     },
     {
       "type": "DOC",
+      "title": "语雀文章自动同步到博客-Elog+GithubAction）",
+      "uuid": "flI4eu3rX5m1DjVG",
+      "url": "rw9pet6kloggaehv",
+      "prev_uuid": "usUGUGIrgim6i9jM",
+      "sibling_uuid": "wXvgRQ1Ri30FZsT9",
+      "child_uuid": "",
+      "parent_uuid": "usUGUGIrgim6i9jM",
+      "doc_id": 186997290,
+      "level": 1,
+      "id": 186997290,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
       "title": "neovim 快速配置与极速入门",
       "uuid": "wXvgRQ1Ri30FZsT9",
       "url": "lugtgezwcpgst75z",
-      "prev_uuid": "usUGUGIrgim6i9jM",
-      "sibling_uuid": "",
+      "prev_uuid": "flI4eu3rX5m1DjVG",
+      "sibling_uuid": "FlWEaq7-3rPe_E35",
       "child_uuid": "",
       "parent_uuid": "usUGUGIrgim6i9jM",
       "doc_id": 186564254,
       "level": 1,
       "id": 186564254,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "终端复用工具tmux简介及常用快捷键",
+      "uuid": "FlWEaq7-3rPe_E35",
+      "url": "oyto5i7wxqb4x7g0",
+      "prev_uuid": "wXvgRQ1Ri30FZsT9",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "usUGUGIrgim6i9jM",
+      "doc_id": 186553521,
+      "level": 1,
+      "id": 186553521,
       "open_window": 1,
       "visible": 1
     },
