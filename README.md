@@ -105,43 +105,17 @@ halo 站点访问没问题直接提交所有文件到 Github 仓库即可
 ### 配置环境变量
 ![image](https://image.1874.cool/1874/202311301327995.jpg)
 
-### 自动化部署
 
+### 语雀Webhook触发器
 
-当在 Notion 中改动文档后，手动/自动触发 Github Actions流水线，会重新从 Notion 增量拉取文档，并自动部署到 Halo 站点，如此就实现了自动化部署博客。
+在语雀仓库中设置webhook之后，当在知识库中改动文档后，就会自动触发 Github Actions流水线，会重新从 Notion 增量拉取文档，并自动部署到 Halo 站点，如此就实现了自动化部署博客。
 
-
-整个流程的关键点就在于：如何手动/自动触发 Github Actions。
-
-
-在项目.`github/workflows/sync.yaml`中已经配置了外部 API 触发 Github Actions 事件，所以只需要调用 API 触发流水线即可。
-
-
-### 手动触发
-
-
-为了方便，这里提供一个部署在 Vercel 的免费公用的 [**ServerlessAPI**](https://github.com/elog-x/serverless-api)，按照文档配置好 URL 参数并浏览器访问即可触发流水线
-
+按照这个文档，配置语雀webhook触发器：[**ServerlessAPI**](https://github.com/elog-x/serverless-api)，按照文档配置好 URL 参数并浏览器访问即可触发流水线
 
 ```text
 https://serverless-api-elog.vercel.app/api/github?user=xxx&repo=xxx&event_type=deploy&token=xxx
 ```
 
+感谢作者：https://github.com/elog-x/notion-halo
 
-### 自动触发
-
-
-可在 Notion 中结合 Slack 触发，[参考教程](https://elog.1874.cool/notion/vy55q9xwlqlsfrvk)，这里就不做进一步演示了
-
-
-# 自定义 Elog 配置
-
-
-如果想自定义 Elog 配置，可访问 [Elog 文档](https://elog.1874.cool/)
-
-
-# 参考示例
-
-
-Halo 站点示例：[https://halo.1874.cool](https://halo.1874.cool/archives/flowus-halo)
 

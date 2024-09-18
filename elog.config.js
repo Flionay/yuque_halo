@@ -24,7 +24,7 @@ module.exports = {
       policyName: process.env.HALO_POLICY_NAME,
       rawType: 'html',
       needUploadImage: false,
-      formatExt: process.env.LOCAL_JS
+      formatExt: './customFormatter.js'
     }
   },
   image: {

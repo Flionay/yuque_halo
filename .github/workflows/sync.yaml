@@ -30,19 +30,25 @@ jobs:
 
       - name: 拉取文档
         env:
-          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
-          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+          YUQUE_USERNAME: ${{ secrets.YUQUE_USERNAME }}
+          YUQUE_PASSWORD: ${{ secrets.YUQUE_PASSWORD }}
+          YUQUE_LOGIN: ${{ secrets.YUQUE_LOGIN }}
+          YUQUE_REPO: ${{ secrets.YUQUE_REPO }}
           HALO_ENDPOINT: ${{ secrets.HALO_ENDPOINT }}
           HALO_TOKEN: ${{ secrets.HALO_TOKEN }}
           HALO_POLICY_NAME: ${{ secrets.HALO_POLICY_NAME }}
+          OSS_SECRET_ID: ${{ secrets.OSS_SECRET_ID }}
+          OSS_SECRET_KEY: ${{ secrets.OSS_SECRET_KEY }}
+          OSS_BUCKET: ${{ secrets.OSS_BUCKET }}
+          OSS_REGION: ${{ secrets.OSS_REGION }}
         run: |
           npm run sync:local
           npm run sync:halo
 
       - name: 配置Git用户名邮箱
         run: |
-          git config --global user.name "xxx"
-          git config --global user.email "xxx"
+          git config --global user.name "flionay"
+          git config --global user.email "angyi_jq@163.com"
 
       - name: 提交拉取的文档到GitHub仓库
         run: |

@@ -26,7 +26,7 @@ module.exports = {
         enable: true,
         exclude: ['description']
       },
-      formatExt: process.env.LOCAL_JS
+      formatExt: './customFormatter.js'
     }
   },
   image: {
