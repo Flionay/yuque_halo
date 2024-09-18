@@ -48,12 +48,12 @@
     {
       "id": 186997290,
       "doc_id": "rw9pet6kloggaehv",
-      "updated": 1726664311000,
+      "updated": 1726664920000,
       "properties": {
         "title": "语雀文章自动同步到博客-Elog+GithubAction）",
         "urlname": "rw9pet6kloggaehv",
         "date": "2024-09-18 20:15:12",
-        "updated": "2024-09-18 20:58:31",
+        "updated": "2024-09-18 21:08:40",
         "categories": "软件",
         "tags": [
           "Halo",
@@ -61,7 +61,7 @@
         ],
         "publish": true,
         "autoExcerpt": true,
-        "cover": "https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2024/iShot_2024-09-18_20.30.04.png"
+        "cover": "../images/52f9916c957ceef8de4a23c587b48031.07"
       },
       "catalog": [
         {

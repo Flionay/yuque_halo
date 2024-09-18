@@ -1,4 +1,6 @@
 ## Yuque + Elog + Halo + GitHub Actions 博客解决方案
+![]([https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2024/iShot_2024-09-18_21.07.57.png](https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2024/iShot_2024-09-18_21.07.57.png))
+
 项目地址：[https://github.com/Flionay/yuque-halo](https://github.com/Flionay/yuque-halo)
 
 此工具借助 [Elog](https://github.com/LetTTGACO/elog) 实现了从 语雀 同步文档到 Halo 站点，并借助 Github Actions 实现了自动化部署。
