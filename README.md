@@ -1,8 +1,17 @@
-# Notion + Elog + Halo + GitHub Actions 博客解决方案
+# Yuque + Elog + Halo + GitHub Actions 博客解决方案
 # 快速开始
+
+此工具借助 [Elog](https://github.com/LetTTGACO/elog) 实现了从 语雀 同步文档到 Halo 站点，并借助 Github Actions 实现了自动化部署。
+
+## 拓展功能点
+在语雀文档的开头，写一个yaml代码块，就能又漂亮又方便地配置博客文章的标题、分类、标签、封面等属性，比如：
+![](https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2024/1RAW4e.png)
+
+借助elog的`FormatExt` 自定义文档适配处理器，将这个yaml代码块解析，并与elog生成的frontmatter合并，最终生成符合halo要求的文章元数据
+
 # 博客工具
 
-- 写作平台：Notion
+- 写作平台：语雀
 - 博客平台：Halo
 - 博客文档同步：[Elog](https://github.com/LetTTGACO/elog)
 
@@ -11,38 +20,36 @@
 
 ## Fork模板仓库
 
-
 [点击 Fork](https://github.com/elog-x/notion-halo/fork) 该模板仓库到个人 Github 账号仓库下并 clone 到本地
-
 
 ## 安装依赖
 
-
 在项目根目录下运行命令安装依赖
-
 
 ```shell
 npm install
 ```
-
-
 ## 新建 Elog 本地调试文件
-
 
 在项目根目录中复制`.elog.example.env`文件并改名为`.elog.env`，此文件将用于本地同步Notion 文档
 
+## 配置 Yuque 关键信息
 
-## 配置 Notion 关键信息
-
-1. 参考[示例数据表格](https://1874.notion.site/b061632fc7d644eaa12f3e0f095938fb)，选择或新建 Notion 数据库
-2. 按照[文档提示](https://elog.1874.cool/notion/gvnxobqogetukays#notion)配置 Notion 并获取 `token` 和 `databaseId`
-3. 按照[文档提示](https://elog.1874.cool/notion/gvnxobqogetukays#halo)配置 Halo 并获取`endpoint token policyName`
-4. 将上面步骤获取的变量写入`.elog.env`
+详细内容可以查看elog官方文档，详细信息获取部分
 
 ```yaml
-# Notion配置
-NOTION_TOKEN=获取的token
-NOTION_DATABASE_ID=获取的databaseId
+#语雀（账号密码模式）
+YUQUE_USERNAME=账号
+YUQUE_PASSWORD=密码
+# 语雀公共参数
+YUQUE_LOGIN=空间名
+YUQUE_REPO=知识库id
+
+# 阿里云 oss 图床对象存储
+OSS_SECRET_ID=xxxx
+OSS_SECRET_KEY=xxx
+OSS_BUCKET=用户名
+OSS_REGION=oss-cn-beijing
 
 # Halo 站点信息
 HALO_ENDPOINT=Halo 站点地址

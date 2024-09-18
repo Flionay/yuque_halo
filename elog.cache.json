@@ -1,0 +1,75 @@
+{
+  "docs": [
+    {
+      "id": 186564254,
+      "doc_id": "lugtgezwcpgst75z",
+      "updated": 1726653662000,
+      "properties": {
+        "title": "neovim 快速配置与极速入门",
+        "urlname": "lugtgezwcpgst75z",
+        "date": "2024-09-14 13:32:02",
+        "updated": "2024-09-18 18:01:02",
+        "cover": "https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2024/1_sr7bPYHFkVXZg-TlxqrgTg.webp",
+        "description": "over: https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2024/iShot_2024-09-14_14.48.01.png categories: 系统 tags: linux publish: true autoExcerpt: true ...",
+        "over": "https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2024/iShot_2024-09-14_14.48.01.png",
+        "categories": "系统",
+        "tags": "linux",
+        "publish": true,
+        "autoExcerpt": true
+      },
+      "catalog": [
+        {
+          "title": "软件",
+          "doc_id": "lugtgezwcpgst75z"
+        }
+      ]
+    }
+  ],
+  "catalog": [
+    {
+      "type": "TITLE",
+      "title": "软件",
+      "uuid": "usUGUGIrgim6i9jM",
+      "url": "",
+      "prev_uuid": "",
+      "sibling_uuid": "NA2x-Mr62zB4-nFO",
+      "child_uuid": "wXvgRQ1Ri30FZsT9",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "neovim 快速配置与极速入门",
+      "uuid": "wXvgRQ1Ri30FZsT9",
+      "url": "lugtgezwcpgst75z",
+      "prev_uuid": "usUGUGIrgim6i9jM",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "usUGUGIrgim6i9jM",
+      "doc_id": 186564254,
+      "level": 1,
+      "id": 186564254,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "系统",
+      "uuid": "NA2x-Mr62zB4-nFO",
+      "url": "",
+      "prev_uuid": "usUGUGIrgim6i9jM",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    }
+  ]
+}

@@ -1,10 +1,19 @@
 module.exports = {
   write: {
-    platform: 'notion',
-    notion: {
-      token: process.env.NOTION_TOKEN,
-      databaseId: process.env.NOTION_DATABASE_ID,
-      filter: { property: 'status', select: { equals: '已发布' }}
+    platform: 'yuque-pwd',
+    yuque: {
+      token: process.env.YUQUE_TOKEN,
+      login: process.env.YUQUE_LOGIN,
+      repo: process.env.YUQUE_REPO,
+      onlyPublic: false,
+      onlyPublished: true,
+    },
+    "yuque-pwd": {
+      username: process.env.YUQUE_USERNAME,
+      password: process.env.YUQUE_PASSWORD,
+      login: process.env.YUQUE_LOGIN,
+      repo: process.env.YUQUE_REPO,
+      linebreak: false
     }
   },
   deploy: {
@@ -15,8 +24,9 @@ module.exports = {
       format: 'markdown',
       frontMatter: {
         enable: true,
-        exclude: ['cover']
-      }
+        exclude: ['description']
+      },
+      formatExt: process.env.LOCAL_JS
     }
   },
   image: {
