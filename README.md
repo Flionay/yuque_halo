@@ -106,10 +106,10 @@ halo 站点访问没问题直接提交所有文件到 Github 仓库即可
 
 在语雀仓库中设置webhook之后，当在知识库中改动文档后，就会自动触发 Github Actions流水线，会重新从语雀增量拉取文档，并自动部署到 Halo 站点，如此就实现了自动化部署博客。
 
-按照这个文档，配置语雀webhook触发器：[**ServerlessAPI**](https://github.com/elog-x/serverless-api)，按照文档配置好 URL 参数并浏览器访问即可触发流水线
+按照阿里云云函数文档，配置语雀webhook云函数，详情在`yuque_webhook.py`，将Github的token配置在云函数的环境变量里，其余参数通过query传递，然后配置在语雀知识库的webhook中，检测发送消息成功即可
 
 ```text
-https://serverless-api-elog.vercel.app/api/github?user=xxx&repo=xxx&event_type=deploy&token=xxx
+https://yuque-webhook-xxxxx.cn-beijing.xxxxx.run/yuque/webhook?user=Flionay&repo=yuque_halo&event_type=deploy
 ```
 
 感谢作者：https://github.com/elog-x/notion-halo
