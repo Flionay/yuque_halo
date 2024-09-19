@@ -3,7 +3,7 @@
 
 此工具借助 [Elog](https://github.com/LetTTGACO/elog) 实现了从 语雀 同步文档到 Halo 站点，并借助 Github Actions 实现了自动化部署。
 
-## 拓展功能点
+### 拓展功能点
 在语雀文档的开头，写一个yaml代码块，就能又漂亮又方便地配置博客文章的标题、分类、标签、封面等属性，比如：
 ![](https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2024/1RAW4e.png)
 
@@ -15,25 +15,24 @@
 - 博客平台：Halo
 - 博客文档同步：[Elog](https://github.com/LetTTGACO/elog)
 
-# 博客搭建指南
+# 使用指南
 
-
-## Fork模板仓库
+1. Fork模板仓库
 
 [点击 Fork](https://github.com/elog-x/notion-halo/fork) 该模板仓库到个人 Github 账号仓库下并 clone 到本地
 
-## 安装依赖
+2. 安装依赖
 
 在项目根目录下运行命令安装依赖
 
 ```shell
 npm install
 ```
-## 新建 Elog 本地调试文件
+3. 新建 Elog 本地调试文件
 
 在项目根目录中复制`.elog.example.env`文件并改名为`.elog.env`，此文件将用于本地同步Notion 文档
 
-## 配置 Yuque 关键信息
+4. 配置 Yuque 关键信息
 
 详细内容可以查看elog官方文档，详细信息获取部分
 
@@ -57,9 +56,7 @@ HALO_TOKEN=获取的 Halo 个人令牌
 HALO_POLICY_NAME=获取的存储策略
 ```
 
-
-## 本地调试
-
+5. 本地调试
 
 仓库中有两个 elog 配置文件：
 
@@ -82,15 +79,14 @@ npm run dev:halo
 ```
 
 
-## 配置 Halo 站点
-
+6. 配置 Halo 站点
 
 配置你的Halo 站点直到满意为止，可适当安装一些主题、插件
 
 - 代码高亮插件
 - markdown 编辑器
 
-## 提交代码到 github
+7. 提交代码到 github
 
 
 halo 站点访问没问题直接提交所有文件到 Github 仓库即可
@@ -108,7 +104,7 @@ halo 站点访问没问题直接提交所有文件到 Github 仓库即可
 
 ### 语雀Webhook触发器
 
-在语雀仓库中设置webhook之后，当在知识库中改动文档后，就会自动触发 Github Actions流水线，会重新从 Notion 增量拉取文档，并自动部署到 Halo 站点，如此就实现了自动化部署博客。
+在语雀仓库中设置webhook之后，当在知识库中改动文档后，就会自动触发 Github Actions流水线，会重新从语雀增量拉取文档，并自动部署到 Halo 站点，如此就实现了自动化部署博客。
 
 按照这个文档，配置语雀webhook触发器：[**ServerlessAPI**](https://github.com/elog-x/serverless-api)，按照文档配置好 URL 参数并浏览器访问即可触发流水线
 
