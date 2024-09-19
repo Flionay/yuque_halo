@@ -96,4 +96,15 @@ halo 站点访问没问题直接提交所有文件到 Github 仓库即可
 https://serverless-api-elog.vercel.app/api/github?user=xxx&repo=xxx&event_type=deploy&token=xxx
 ```
 
+vercel 的这个项目在语雀里一直没有成功，不知道是什么原因，点击测试，也总是返回消息发送失败，体验很不好
+
+#### 阿里云云函数
+所以换一种方案，用国内阿里云的云函数：
+
+按照阿里云云函数文档，编写云函数flask脚本，详情在`yuque_webhook.py`，将Github的token配置在云函数的环境变量里，其余参数通过query传递，然后配置在语雀知识库的webhook中，检测发送消息成功即可
+
+```latex
+https://yuque-webhook-xxxxx.cn-beijing.xxxxx.run/yuque/webhook?user=Flionay&repo=yuque_halo&event_type=deploy
+```
+
 感谢作者：[https://github.com/elog-x/notion-halo](https://github.com/elog-x/notion-halo)
