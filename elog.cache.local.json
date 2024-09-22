@@ -48,12 +48,12 @@
     {
       "id": 186997290,
       "doc_id": "rw9pet6kloggaehv",
-      "updated": 1726740726000,
+      "updated": 1727003675000,
       "properties": {
-        "title": "语雀文章自动同步到博客-Elog+GithubAction）",
+        "title": "语雀文章自动同步到博客-Elog+GithubAction",
         "urlname": "rw9pet6kloggaehv",
         "date": "2024-09-18 20:15:12",
-        "updated": "2024-09-19 18:12:06",
+        "updated": "2024-09-22 19:14:35",
         "cover": "https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2024/iShot_2024-09-18_21.07.57.png",
         "categories": "软件",
         "tags": [
@@ -69,8 +69,8 @@
           "doc_id": "rw9pet6kloggaehv"
         }
       ],
-      "realName": "语雀文章自动同步到博客-Elog+GithubAction）",
-      "relativePath": "/语雀文章自动同步到博客-Elog+GithubAction）.md",
+      "realName": "语雀文章自动同步到博客-Elog+GithubAction",
+      "relativePath": "/语雀文章自动同步到博客-Elog+GithubAction.md",
       "docPath": "./docs"
     }
   ],
@@ -92,7 +92,7 @@
     },
     {
       "type": "DOC",
-      "title": "语雀文章自动同步到博客-Elog+GithubAction）",
+      "title": "语雀文章自动同步到博客-Elog+GithubAction",
       "uuid": "flI4eu3rX5m1DjVG",
       "url": "rw9pet6kloggaehv",
       "prev_uuid": "usUGUGIrgim6i9jM",
