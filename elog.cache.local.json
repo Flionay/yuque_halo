@@ -72,15 +72,73 @@
       "realName": "语雀文章自动同步到博客-Elog+GithubAction",
       "relativePath": "/语雀文章自动同步到博客-Elog+GithubAction.md",
       "docPath": "./docs"
+    },
+    {
+      "id": 189631834,
+      "doc_id": "mvnx4ybak7fy6vlv",
+      "updated": 1728541396000,
+      "properties": {
+        "title": "诺贝尔物理学奖颁给了神经网络",
+        "urlname": "mvnx4ybak7fy6vlv",
+        "date": "2024-10-10 13:45:34",
+        "updated": "2024-10-10 14:23:16",
+        "cover": "https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2024/dLNibr.png",
+        "categories": "人工智能",
+        "tags": [
+          "ML",
+          "科研"
+        ],
+        "publish": true,
+        "autoExcerpt": true
+      },
+      "catalog": [
+        {
+          "title": "人工智能",
+          "doc_id": "mvnx4ybak7fy6vlv"
+        }
+      ],
+      "realName": "诺贝尔物理学奖颁给了神经网络",
+      "relativePath": "/诺贝尔物理学奖颁给了神经网络.md",
+      "docPath": "./docs"
     }
   ],
   "catalog": [
     {
       "type": "TITLE",
+      "title": "人工智能",
+      "uuid": "uUZAVPI1S-TZ1J9w",
+      "url": "",
+      "prev_uuid": "",
+      "sibling_uuid": "usUGUGIrgim6i9jM",
+      "child_uuid": "JpCMOZD10zuTMzhI",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "诺贝尔物理学奖颁给了神经网络",
+      "uuid": "JpCMOZD10zuTMzhI",
+      "url": "mvnx4ybak7fy6vlv",
+      "prev_uuid": "uUZAVPI1S-TZ1J9w",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "uUZAVPI1S-TZ1J9w",
+      "doc_id": 189631834,
+      "level": 1,
+      "id": 189631834,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
       "title": "软件",
       "uuid": "usUGUGIrgim6i9jM",
       "url": "",
-      "prev_uuid": "",
+      "prev_uuid": "uUZAVPI1S-TZ1J9w",
       "sibling_uuid": "NA2x-Mr62zB4-nFO",
       "child_uuid": "flI4eu3rX5m1DjVG",
       "parent_uuid": "",
