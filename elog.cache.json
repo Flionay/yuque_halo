@@ -92,15 +92,78 @@
           "doc_id": "mvnx4ybak7fy6vlv"
         }
       ]
+    },
+    {
+      "id": 189764011,
+      "doc_id": "nv5yhgvrkspuhblh",
+      "updated": 1728615931000,
+      "properties": {
+        "title": "FinalCutPro 学习",
+        "urlname": "nv5yhgvrkspuhblh",
+        "date": "2024-10-11 11:04:45",
+        "updated": "2024-10-11 11:05:31"
+      },
+      "catalog": []
+    },
+    {
+      "id": 182563986,
+      "doc_id": "worogeebbslift5i",
+      "updated": 1729320328000,
+      "properties": {
+        "title": "DVC-DataVersionControl 数据版本管理",
+        "urlname": "worogeebbslift5i",
+        "date": "2024-08-16 18:10:12",
+        "updated": "2024-10-19 14:45:28",
+        "cover": "https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2024/19RNvX.png",
+        "description": "categories: 人工智能 tags:   - ML  - 科研 publish: true autoExcerpt: true cover: https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2024/19RNvX.png介绍作为一名算法工程...",
+        "categories": "人工智能",
+        "tags": [
+          "ML",
+          "科研"
+        ],
+        "publish": true,
+        "autoExcerpt": true
+      },
+      "catalog": []
     }
   ],
   "catalog": [
+    {
+      "type": "DOC",
+      "title": "DVC-DataVersionControl 数据版本管理",
+      "uuid": "DKldIZo8VluLqXRv",
+      "url": "worogeebbslift5i",
+      "prev_uuid": "",
+      "sibling_uuid": "pPPh-e2syUtk5zNA",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 182563986,
+      "level": 0,
+      "id": 182563986,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "FinalCutPro 学习",
+      "uuid": "pPPh-e2syUtk5zNA",
+      "url": "nv5yhgvrkspuhblh",
+      "prev_uuid": "DKldIZo8VluLqXRv",
+      "sibling_uuid": "uUZAVPI1S-TZ1J9w",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 189764011,
+      "level": 0,
+      "id": 189764011,
+      "open_window": 1,
+      "visible": 0
+    },
     {
       "type": "TITLE",
       "title": "人工智能",
       "uuid": "uUZAVPI1S-TZ1J9w",
       "url": "",
-      "prev_uuid": "",
+      "prev_uuid": "pPPh-e2syUtk5zNA",
       "sibling_uuid": "usUGUGIrgim6i9jM",
       "child_uuid": "JpCMOZD10zuTMzhI",
       "parent_uuid": "",

@@ -100,15 +100,83 @@
       "realName": "诺贝尔物理学奖颁给了神经网络",
       "relativePath": "/诺贝尔物理学奖颁给了神经网络.md",
       "docPath": "./docs"
+    },
+    {
+      "id": 189764011,
+      "doc_id": "nv5yhgvrkspuhblh",
+      "updated": 1728615931000,
+      "properties": {
+        "title": "FinalCutPro 学习",
+        "urlname": "nv5yhgvrkspuhblh",
+        "date": "2024-10-11 11:04:45",
+        "updated": "2024-10-11 11:05:31"
+      },
+      "catalog": [],
+      "realName": "FinalCutPro 学习",
+      "relativePath": "/FinalCutPro 学习.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 182563986,
+      "doc_id": "worogeebbslift5i",
+      "updated": 1729320328000,
+      "properties": {
+        "title": "DVC-DataVersionControl 数据版本管理",
+        "urlname": "worogeebbslift5i",
+        "date": "2024-08-16 18:10:12",
+        "updated": "2024-10-19 14:45:28",
+        "cover": "https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2024/19RNvX.png",
+        "categories": "人工智能",
+        "tags": [
+          "ML",
+          "科研"
+        ],
+        "publish": true,
+        "autoExcerpt": true
+      },
+      "catalog": [],
+      "realName": "DVC-DataVersionControl 数据版本管理",
+      "relativePath": "/DVC-DataVersionControl 数据版本管理.md",
+      "docPath": "./docs"
     }
   ],
   "catalog": [
+    {
+      "type": "DOC",
+      "title": "DVC-DataVersionControl 数据版本管理",
+      "uuid": "DKldIZo8VluLqXRv",
+      "url": "worogeebbslift5i",
+      "prev_uuid": "",
+      "sibling_uuid": "pPPh-e2syUtk5zNA",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 182563986,
+      "level": 0,
+      "id": 182563986,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "FinalCutPro 学习",
+      "uuid": "pPPh-e2syUtk5zNA",
+      "url": "nv5yhgvrkspuhblh",
+      "prev_uuid": "DKldIZo8VluLqXRv",
+      "sibling_uuid": "uUZAVPI1S-TZ1J9w",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 189764011,
+      "level": 0,
+      "id": 189764011,
+      "open_window": 1,
+      "visible": 0
+    },
     {
       "type": "TITLE",
       "title": "人工智能",
       "uuid": "uUZAVPI1S-TZ1J9w",
       "url": "",
-      "prev_uuid": "",
+      "prev_uuid": "pPPh-e2syUtk5zNA",
       "sibling_uuid": "usUGUGIrgim6i9jM",
       "child_uuid": "JpCMOZD10zuTMzhI",
       "parent_uuid": "",
