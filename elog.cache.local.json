@@ -138,30 +138,70 @@
       "realName": "DVC-DataVersionControl 数据版本管理",
       "relativePath": "/DVC-DataVersionControl 数据版本管理.md",
       "docPath": "./docs"
+    },
+    {
+      "id": 190840881,
+      "doc_id": "wcqyg31mbvbv904o",
+      "updated": 1729663979000,
+      "properties": {
+        "title": "Dash 进阶技巧",
+        "urlname": "wcqyg31mbvbv904o",
+        "date": "2024-10-18 17:25:53",
+        "updated": "2024-10-23 14:12:59",
+        "cover": "https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2024/LIUfK8.png",
+        "categories": "开发学习",
+        "tags": "Dash",
+        "publish": true,
+        "autoExcerpt": true
+      },
+      "catalog": [
+        {
+          "title": "系统",
+          "doc_id": "wcqyg31mbvbv904o"
+        }
+      ],
+      "realName": "Dash 进阶技巧",
+      "relativePath": "/Dash 进阶技巧.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 190945322,
+      "doc_id": "mcgxg3k04ob6dlu9",
+      "updated": 1729343734000,
+      "properties": {
+        "title": "图片整理全流程方案",
+        "urlname": "mcgxg3k04ob6dlu9",
+        "date": "2024-10-19 21:09:51",
+        "updated": "2024-10-19 21:15:34"
+      },
+      "catalog": [],
+      "realName": "图片整理全流程方案",
+      "relativePath": "/图片整理全流程方案.md",
+      "docPath": "./docs"
     }
   ],
   "catalog": [
     {
       "type": "DOC",
-      "title": "DVC-DataVersionControl 数据版本管理",
-      "uuid": "DKldIZo8VluLqXRv",
-      "url": "worogeebbslift5i",
+      "title": "图片整理全流程方案",
+      "uuid": "XWOq4WAbPaRNBuSk",
+      "url": "mcgxg3k04ob6dlu9",
       "prev_uuid": "",
       "sibling_uuid": "pPPh-e2syUtk5zNA",
       "child_uuid": "",
       "parent_uuid": "",
-      "doc_id": 182563986,
+      "doc_id": 190945322,
       "level": 0,
-      "id": 182563986,
+      "id": 190945322,
       "open_window": 1,
-      "visible": 1
+      "visible": 0
     },
     {
       "type": "DOC",
       "title": "FinalCutPro 学习",
       "uuid": "pPPh-e2syUtk5zNA",
       "url": "nv5yhgvrkspuhblh",
-      "prev_uuid": "DKldIZo8VluLqXRv",
+      "prev_uuid": "XWOq4WAbPaRNBuSk",
       "sibling_uuid": "uUZAVPI1S-TZ1J9w",
       "child_uuid": "",
       "parent_uuid": "",
@@ -178,7 +218,7 @@
       "url": "",
       "prev_uuid": "pPPh-e2syUtk5zNA",
       "sibling_uuid": "usUGUGIrgim6i9jM",
-      "child_uuid": "JpCMOZD10zuTMzhI",
+      "child_uuid": "DKldIZo8VluLqXRv",
       "parent_uuid": "",
       "doc_id": "",
       "level": 0,
@@ -188,10 +228,25 @@
     },
     {
       "type": "DOC",
+      "title": "DVC-DataVersionControl 数据版本管理",
+      "uuid": "DKldIZo8VluLqXRv",
+      "url": "worogeebbslift5i",
+      "prev_uuid": "uUZAVPI1S-TZ1J9w",
+      "sibling_uuid": "JpCMOZD10zuTMzhI",
+      "child_uuid": "",
+      "parent_uuid": "uUZAVPI1S-TZ1J9w",
+      "doc_id": 182563986,
+      "level": 1,
+      "id": 182563986,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
       "title": "诺贝尔物理学奖颁给了神经网络",
       "uuid": "JpCMOZD10zuTMzhI",
       "url": "mvnx4ybak7fy6vlv",
-      "prev_uuid": "uUZAVPI1S-TZ1J9w",
+      "prev_uuid": "DKldIZo8VluLqXRv",
       "sibling_uuid": "",
       "child_uuid": "",
       "parent_uuid": "uUZAVPI1S-TZ1J9w",
@@ -268,11 +323,26 @@
       "url": "",
       "prev_uuid": "usUGUGIrgim6i9jM",
       "sibling_uuid": "",
-      "child_uuid": "",
+      "child_uuid": "s8pFkkWwgHYIwWvF",
       "parent_uuid": "",
       "doc_id": "",
       "level": 0,
       "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Dash 进阶技巧",
+      "uuid": "s8pFkkWwgHYIwWvF",
+      "url": "wcqyg31mbvbv904o",
+      "prev_uuid": "NA2x-Mr62zB4-nFO",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "NA2x-Mr62zB4-nFO",
+      "doc_id": 190840881,
+      "level": 1,
+      "id": 190840881,
       "open_window": 1,
       "visible": 1
     }
