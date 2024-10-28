@@ -164,14 +164,14 @@
     {
       "id": 191568899,
       "doc_id": "pxkpgpbe36ahg0gb",
-      "updated": 1730115546000,
+      "updated": 1730115742000,
       "properties": {
         "title": "借助Ollama一键本地部署CodeGeex，让AI帮你打工",
         "urlname": "pxkpgpbe36ahg0gb",
         "date": "2024-10-24 11:01:32",
-        "updated": "2024-10-28 19:39:06",
-        "cover": "https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2024/zHiK9e.png",
-        "description": "categories: 软件 tags:   - python publish: true autoExcerpt: true cover: https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2024/zHiK9e.png1. Ollama简介：快速...",
+        "updated": "2024-10-28 19:42:22",
+        "cover": "https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2024/bala-ollama.webp",
+        "description": "categories: 软件 tags:   - python publish: true autoExcerpt: true cover: https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2024/bala-ollama.webp1. Ollam...",
         "categories": "软件",
         "tags": [
           "python"
