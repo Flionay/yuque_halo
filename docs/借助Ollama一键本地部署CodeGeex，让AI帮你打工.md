@@ -1,18 +1,18 @@
 ## <font style="color:rgb(36, 41, 47);background-color:rgba(255, 255, 255, 0);">Ollama简介：快速了解一键部署工具</font>
-<font style="color:rgb(36, 41, 47);background-color:rgba(255, 255, 255, 0);">Ollama是一款专为简化AI模型部署而设计的工具。它支持多种模型的本地部署，确保用户能够在不依赖云服务的情况下，快速启动和运行AI应用。</font>
+Ollama是一款专为简化AI模型部署而设计的工具。它支持多种模型的本地部署，确保用户能够在不依赖云服务的情况下，快速启动和运行AI应用。
 
-#### <font style="color:rgb(36, 41, 47);background-color:rgba(255, 255, 255, 0);">为什么选择Ollama？</font>
-1. **<font style="color:rgb(36, 41, 47);background-color:rgba(255, 255, 255, 0);">简便易用</font>**<font style="color:rgb(36, 41, 47);background-color:rgba(255, 255, 255, 0);">：Ollama提供直观的用户界面和简单的操作步骤，即使是非技术用户也能轻松上手。</font>
-2. **<font style="color:rgb(36, 41, 47);background-color:rgba(255, 255, 255, 0);">本地部署</font>**<font style="color:rgb(36, 41, 47);background-color:rgba(255, 255, 255, 0);">：通过本地部署，用户可以更好地控制数据安全和隐私，避免数据泄露的风险。</font>
-3. **<font style="color:rgb(36, 41, 47);background-color:rgba(255, 255, 255, 0);">高效性能</font>**<font style="color:rgb(36, 41, 47);background-color:rgba(255, 255, 255, 0);">：Ollama优化了模型的运行效率，确保在本地环境中也能获得出色的性能表现。</font>
-4. **<font style="color:rgb(36, 41, 47);background-color:rgba(255, 255, 255, 0);">广泛兼容</font>**<font style="color:rgb(36, 41, 47);background-color:rgba(255, 255, 255, 0);">：支持多种AI模型和框架，满足不同用户的需求。</font>
+#### 为什么选择Ollama？
+1. **简便易用**：Ollama提供直观的用户界面和简单的操作步骤，即使是非技术用户也能轻松上手。
+2. **本地部署**：通过本地部署，用户可以更好地控制数据安全和隐私，避免数据泄露的风险。
+3. **高效性能**：Ollama优化了模型的运行效率，确保在本地环境中也能获得出色的性能表现。
+4. **广泛兼容**：支持多种AI模型和框架，满足不同用户的需求。
 
-#### <font style="color:rgb(36, 41, 47);background-color:rgba(255, 255, 255, 0);">Ollama的核心功能</font>
-+ **<font style="color:rgb(36, 41, 47);background-color:rgba(255, 255, 255, 0);">一键安装</font>**<font style="color:rgb(36, 41, 47);background-color:rgba(255, 255, 255, 0);">：无需复杂的配置，轻松完成模型的安装和启动。</font>
-+ **<font style="color:rgb(36, 41, 47);background-color:rgba(255, 255, 255, 0);">自动更新</font>**<font style="color:rgb(36, 41, 47);background-color:rgba(255, 255, 255, 0);">：保持模型和工具的最新版本，确保最佳性能和安全性。</font>
-+ **<font style="color:rgb(36, 41, 47);background-color:rgba(255, 255, 255, 0);">社区支持</font>**<font style="color:rgb(36, 41, 47);background-color:rgba(255, 255, 255, 0);">：活跃的用户社区提供丰富的资源和支持，帮助用户解决问题。</font>
+#### Ollama的核心功能
++ **一键安装**：无需复杂的配置，轻松完成模型的安装和启动。
++ **自动更新**：保持模型和工具的最新版本，确保最佳性能和安全性。
++ **社区支持**：活跃的用户社区提供丰富的资源和支持，帮助用户解决问题。
 
-<font style="color:rgb(36, 41, 47);background-color:rgba(255, 255, 255, 0);">这里是Ollama动手学习的系列文档：</font>[https://datawhalechina.github.io/handy-ollama/#/](https://datawhalechina.github.io/handy-ollama/#/)
+这里是Ollama动手学习的系列文档：[https://datawhalechina.github.io/handy-ollama/#/](https://datawhalechina.github.io/handy-ollama/#/)
 
 ## <font style="color:rgb(36, 41, 47);background-color:rgba(255, 255, 255, 0);">CodeGeex是什么？探索AI的潜力</font>
 CodeGeex是一款基于大模型的智能编程助手，它可以实现代码的生成与补全、自动为代码添加注释、自动解释代
@@ -20,7 +20,7 @@ CodeGeex是一款基于大模型的智能编程助手，它可以实现代码的
 码、自动编写单元测试、实现代码审查Code Review、自动修复代码fixbug、自动生成commit message完成git提交，以及在不同编程语言的代码间实现互译、针对技术和代码问题的智能问答等丰富的功能。帮助开发者显著提高工作效率，CodeCeeX支持300+种编程语言，适配多种主流IDE平台，包括Visual Studlo Code, JetBrains IDES，Visual Studio, HBuilderX， Deepln-IDE等。
 
 ## <font style="color:rgb(36, 41, 47);background-color:rgba(255, 255, 255, 0);">为什么选择本地部署？数据安全与隐私保护</font>
-<font style="color:rgb(36, 41, 47);background-color:rgba(255, 255, 255, 0);">在当今高度数字化的世界中，数据安全和隐私保护变得尤为重要。选择在本地环境中部署AI模型，如CodeGeex，能够有效保障用户的数据安全。相比于云端部署，本地部署无需将敏感数据传输到外部服务器，从而减少了数据泄露的风险。此外，本地部署还提供了更高的控制权和灵活性，用户可以根据自身需求调整和优化模型的运行环境。这种方式不仅保护了隐私，还提升了对数据的掌控力，确保AI工具在一个安全、可靠的环境中运行。</font>
+在当今高度数字化的世界中，数据安全和隐私保护变得尤为重要。选择在本地环境中部署AI模型，如CodeGeex，能够有效保障用户的数据安全。相比于云端部署，本地部署无需将敏感数据传输到外部服务器，从而减少了数据泄露的风险。此外，本地部署还提供了更高的控制权和灵活性，用户可以根据自身需求调整和优化模型的运行环境。这种方式不仅保护了隐私，还提升了对数据的掌控力，确保AI工具在一个安全、可靠的环境中运行。
 
 ## Install Ollama Offline
 ### Download the Installer
