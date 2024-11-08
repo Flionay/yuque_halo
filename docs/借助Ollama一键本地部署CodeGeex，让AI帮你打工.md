@@ -144,6 +144,10 @@ launchctl setenv OLLAMA_ORIGINS "*"
 
 <font style="color:#0d0016;">来设置环境变量，Windows环境可以在环境变量中手动配置。</font>
 
+```plain
+export OLLAMA_HOST=0.0.0.0:port
+```
+
 <font style="color:#0d0016;">3. 设置后需要重启 Ollama 服务和 IDE(VSCode 或其他环境) 使环境变量生效。</font>
 
 <font style="color:#0d0016;">4. 启动CodeGeeX4，在终端输入</font>
