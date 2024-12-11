@@ -205,15 +205,50 @@
       "realName": "借助Ollama一键本地部署CodeGeex，让AI帮你打工",
       "relativePath": "/借助Ollama一键本地部署CodeGeex，让AI帮你打工.md",
       "docPath": "./docs"
+    },
+    {
+      "id": 198248600,
+      "doc_id": "ziucdkzmfk47gte2",
+      "updated": 1733919604000,
+      "properties": {
+        "title": "我有自己的摄影网站啦",
+        "urlname": "ziucdkzmfk47gte2",
+        "date": "2024-12-11 19:53:16",
+        "updated": "2024-12-11 20:20:04",
+        "cover": "https://angyi.oss-cn-beijing.aliyuncs.com/gallery/%E5%8C%97%E4%BA%AC/IMG_3734.webp",
+        "categories": "开发学习",
+        "tags": "Dash",
+        "publish": true,
+        "autoExcerpt": true
+      },
+      "catalog": [],
+      "realName": "我有自己的摄影网站啦",
+      "relativePath": "/我有自己的摄影网站啦.md",
+      "docPath": "./docs"
     }
   ],
   "catalog": [
     {
       "type": "DOC",
+      "title": "我有自己的摄影网站啦",
+      "uuid": "vxkZG4BBxtP6ezCK",
+      "url": "ziucdkzmfk47gte2",
+      "prev_uuid": "",
+      "sibling_uuid": "XWOq4WAbPaRNBuSk",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 198248600,
+      "level": 0,
+      "id": 198248600,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
       "title": "图片整理全流程方案",
       "uuid": "XWOq4WAbPaRNBuSk",
       "url": "mcgxg3k04ob6dlu9",
-      "prev_uuid": "",
+      "prev_uuid": "vxkZG4BBxtP6ezCK",
       "sibling_uuid": "pPPh-e2syUtk5zNA",
       "child_uuid": "",
       "parent_uuid": "",
