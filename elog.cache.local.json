@@ -229,15 +229,18 @@
     {
       "id": 199419704,
       "doc_id": "pz579g44nik9tdv1",
-      "updated": 1734950720000,
+      "updated": 1735006077000,
       "properties": {
         "title": "福州-厦门之行",
         "urlname": "pz579g44nik9tdv1",
         "date": "2024-12-20 15:35:04",
-        "updated": "2024-12-23 18:45:20",
+        "updated": "2024-12-24 10:07:57",
         "cover": "https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2024/9afa0885dc2c9bcd33ab811cf3fd60b5.jpeg",
         "categories": "读书与生活",
-        "tags": "感悟",
+        "tags": [
+          "感悟",
+          "旅行"
+        ],
         "publish": true,
         "autoExcerpt": true
       },
