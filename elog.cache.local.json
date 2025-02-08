@@ -252,12 +252,20 @@
     {
       "id": 204991014,
       "doc_id": "dsw3t6g1vwgwps65",
-      "updated": 1738996867000,
+      "updated": 1738997534000,
       "properties": {
         "title": "DeepSeek 创始人梁文峰采访：创新、人才与中国 AI 发展",
         "urlname": "dsw3t6g1vwgwps65",
         "date": "2025-02-08 14:39:51",
-        "updated": "2025-02-08 14:41:07"
+        "updated": "2025-02-08 14:52:14",
+        "categories": "人工智能",
+        "tags": [
+          "ML",
+          "科研"
+        ],
+        "publish": true,
+        "autoExcerpt": true,
+        "cover": "https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2025/iShot_2025-02-06_14.14.52.png"
       },
       "catalog": [
         {

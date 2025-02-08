@@ -228,13 +228,21 @@
     {
       "id": 204991014,
       "doc_id": "dsw3t6g1vwgwps65",
-      "updated": 1738996867000,
+      "updated": 1738997534000,
       "properties": {
         "title": "DeepSeek 创始人梁文峰采访：创新、人才与中国 AI 发展",
         "urlname": "dsw3t6g1vwgwps65",
         "date": "2025-02-08 14:39:51",
-        "updated": "2025-02-08 14:41:07",
-        "description": "一、DeepSeek 引发的震动及其背后原因当 DeepSeek 震惊了硅谷、美国乃至全世界时，我们来看看 DeepSeek 创始人梁文峰的观点。他认为 DeepSeek 之所以让硅谷的很多人惊讶，是因为这是一个中国公司以创新贡献者的身份加入到他们的游戏里。在大部分中国公司习惯跟随而非创新的大..."
+        "updated": "2025-02-08 14:52:14",
+        "description": "categories: 人工智能 tags:   - ML  - 科研 publish: true autoExcerpt: true cover: https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2025/iShot_2025-02-06_14....",
+        "categories": "人工智能",
+        "tags": [
+          "ML",
+          "科研"
+        ],
+        "publish": true,
+        "autoExcerpt": true,
+        "cover": "https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2025/iShot_2025-02-06_14.14.52.png"
       },
       "catalog": [
         {
