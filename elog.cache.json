@@ -94,18 +94,6 @@
       ]
     },
     {
-      "id": 189764011,
-      "doc_id": "nv5yhgvrkspuhblh",
-      "updated": 1728615931000,
-      "properties": {
-        "title": "FinalCutPro 学习",
-        "urlname": "nv5yhgvrkspuhblh",
-        "date": "2024-10-11 11:04:45",
-        "updated": "2024-10-11 11:05:31"
-      },
-      "catalog": []
-    },
-    {
       "id": 182563986,
       "doc_id": "worogeebbslift5i",
       "updated": 1729320328000,
@@ -252,27 +240,22 @@
       ]
     },
     {
-      "id": 225594322,
-      "doc_id": "lvasl9bwxzzfrwrf",
-      "updated": 1750995095000,
-      "properties": {
-        "title": "离线code-server和AI插件",
-        "urlname": "lvasl9bwxzzfrwrf",
-        "date": "2025-06-27 11:24:40",
-        "updated": "2025-06-27 11:31:35"
-      },
-      "catalog": []
-    },
-    {
       "id": 239895596,
       "doc_id": "mgv0ssvdknwvqk2m",
-      "updated": 1760079287000,
+      "updated": 1760080187000,
       "properties": {
         "title": "为什么要进行电力交易",
         "urlname": "mgv0ssvdknwvqk2m",
         "date": "2025-10-10 14:46:55",
-        "updated": "2025-10-10 14:54:47",
-        "description": "⚡ 理解电力的特殊性电是一种非常特殊的商品，它无法大规模储存，其生产、输送和消费必须在同一瞬间完成。这意味着，电网需要每时每刻都保持发电和用电的精确平衡，否则就会影响系统安全。这种实时平衡的需求，使得一个能够灵活反映供需变化的价格信号变得至关重要，而市场机制正是生成这种信号的最有效方式。📈 ..."
+        "updated": "2025-10-10 15:09:47",
+        "cover": "https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2025/hM0jUe.png",
+        "description": "categories: 新能源行业 tags: - 学习 publish: true autoExcerpt: true cover: https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2025/hM0jUe.png⚡ 理解电力的特殊性电是一种非常特...",
+        "categories": "新能源行业",
+        "tags": [
+          "学习"
+        ],
+        "publish": true,
+        "autoExcerpt": true
       },
       "catalog": []
     }
@@ -284,7 +267,7 @@
       "uuid": "u9COOak9-8EJ6oBG",
       "url": "mgv0ssvdknwvqk2m",
       "prev_uuid": "",
-      "sibling_uuid": "OlJNtOGxGpz6Uqyv",
+      "sibling_uuid": "pQtz7MhD17f-Z4sN",
       "child_uuid": "",
       "parent_uuid": "",
       "doc_id": 239895596,
@@ -294,41 +277,11 @@
       "visible": 1
     },
     {
-      "type": "DOC",
-      "title": "离线code-server和AI插件",
-      "uuid": "OlJNtOGxGpz6Uqyv",
-      "url": "lvasl9bwxzzfrwrf",
-      "prev_uuid": "u9COOak9-8EJ6oBG",
-      "sibling_uuid": "pPPh-e2syUtk5zNA",
-      "child_uuid": "",
-      "parent_uuid": "",
-      "doc_id": 225594322,
-      "level": 0,
-      "id": 225594322,
-      "open_window": 1,
-      "visible": 0
-    },
-    {
-      "type": "DOC",
-      "title": "FinalCutPro 学习",
-      "uuid": "pPPh-e2syUtk5zNA",
-      "url": "nv5yhgvrkspuhblh",
-      "prev_uuid": "OlJNtOGxGpz6Uqyv",
-      "sibling_uuid": "pQtz7MhD17f-Z4sN",
-      "child_uuid": "",
-      "parent_uuid": "",
-      "doc_id": 189764011,
-      "level": 0,
-      "id": 189764011,
-      "open_window": 1,
-      "visible": 0
-    },
-    {
       "type": "TITLE",
       "title": "旅行生活感悟",
       "uuid": "pQtz7MhD17f-Z4sN",
       "url": "",
-      "prev_uuid": "pPPh-e2syUtk5zNA",
+      "prev_uuid": "u9COOak9-8EJ6oBG",
       "sibling_uuid": "uUZAVPI1S-TZ1J9w",
       "child_uuid": "ViN4hW0iBj4bHS7d",
       "parent_uuid": "",
