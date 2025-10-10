@@ -276,15 +276,75 @@
       "realName": "DeepSeek 创始人梁文峰采访：创新、人才与中国 AI 发展",
       "relativePath": "/DeepSeek 创始人梁文峰采访：创新、人才与中国 AI 发展.md",
       "docPath": "./docs"
+    },
+    {
+      "id": 225594322,
+      "doc_id": "lvasl9bwxzzfrwrf",
+      "updated": 1750995095000,
+      "properties": {
+        "title": "离线code-server和AI插件",
+        "urlname": "lvasl9bwxzzfrwrf",
+        "date": "2025-06-27 11:24:40",
+        "updated": "2025-06-27 11:31:35"
+      },
+      "catalog": [],
+      "realName": "离线code-server和AI插件",
+      "relativePath": "/离线code-server和AI插件.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 239895596,
+      "doc_id": "mgv0ssvdknwvqk2m",
+      "updated": 1760079287000,
+      "properties": {
+        "title": "为什么要进行电力交易",
+        "urlname": "mgv0ssvdknwvqk2m",
+        "date": "2025-10-10 14:46:55",
+        "updated": "2025-10-10 14:54:47"
+      },
+      "catalog": [],
+      "realName": "为什么要进行电力交易",
+      "relativePath": "/为什么要进行电力交易.md",
+      "docPath": "./docs"
     }
   ],
   "catalog": [
     {
       "type": "DOC",
+      "title": "为什么要进行电力交易",
+      "uuid": "u9COOak9-8EJ6oBG",
+      "url": "mgv0ssvdknwvqk2m",
+      "prev_uuid": "",
+      "sibling_uuid": "OlJNtOGxGpz6Uqyv",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 239895596,
+      "level": 0,
+      "id": 239895596,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "离线code-server和AI插件",
+      "uuid": "OlJNtOGxGpz6Uqyv",
+      "url": "lvasl9bwxzzfrwrf",
+      "prev_uuid": "u9COOak9-8EJ6oBG",
+      "sibling_uuid": "pPPh-e2syUtk5zNA",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 225594322,
+      "level": 0,
+      "id": 225594322,
+      "open_window": 1,
+      "visible": 0
+    },
+    {
+      "type": "DOC",
       "title": "FinalCutPro 学习",
       "uuid": "pPPh-e2syUtk5zNA",
       "url": "nv5yhgvrkspuhblh",
-      "prev_uuid": "",
+      "prev_uuid": "OlJNtOGxGpz6Uqyv",
       "sibling_uuid": "pQtz7MhD17f-Z4sN",
       "child_uuid": "",
       "parent_uuid": "",
