@@ -258,15 +258,50 @@
         "autoExcerpt": true
       },
       "catalog": []
+    },
+    {
+      "id": 244458310,
+      "doc_id": "qpba4x5ww9yyntt3",
+      "updated": 1763002159000,
+      "properties": {
+        "title": "从“优秀的执行者”到“能带人做事的负责人”",
+        "urlname": "qpba4x5ww9yyntt3",
+        "date": "2025-11-12 16:52:58",
+        "updated": "2025-11-13 10:49:19",
+        "description": "categories: 新能源行业 tags: - 学习 publish: true autoExcerpt: true cover: https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2025/R33fOZ.png我是一个应届硕士毕业生，然后在公司...",
+        "categories": "新能源行业",
+        "tags": [
+          "学习"
+        ],
+        "publish": true,
+        "autoExcerpt": true,
+        "cover": "https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2025/R33fOZ.png"
+      },
+      "catalog": []
     }
   ],
   "catalog": [
     {
       "type": "DOC",
+      "title": "从“优秀的执行者”到“能带人做事的负责人”",
+      "uuid": "YNxlMf0QtaKYniuA",
+      "url": "qpba4x5ww9yyntt3",
+      "prev_uuid": "",
+      "sibling_uuid": "u9COOak9-8EJ6oBG",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 244458310,
+      "level": 0,
+      "id": 244458310,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
       "title": "为什么要进行电力交易",
       "uuid": "u9COOak9-8EJ6oBG",
       "url": "mgv0ssvdknwvqk2m",
-      "prev_uuid": "",
+      "prev_uuid": "YNxlMf0QtaKYniuA",
       "sibling_uuid": "pQtz7MhD17f-Z4sN",
       "child_uuid": "",
       "parent_uuid": "",
