@@ -262,17 +262,39 @@
     {
       "id": 244458310,
       "doc_id": "qpba4x5ww9yyntt3",
-      "updated": 1763031959000,
+      "updated": 1763369370000,
       "properties": {
         "title": "从“优秀的执行者”到“能带人做事的负责人”",
         "urlname": "qpba4x5ww9yyntt3",
         "date": "2025-11-12 16:52:58",
-        "updated": "2025-11-13 19:05:59",
+        "updated": "2025-11-17 16:49:30",
         "cover": "https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2025/R33fOZ.png",
-        "description": "categories: 新能源行业 tags: - 学习 publish: true autoExcerpt: true cover: https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2025/R33fOZ.png我是一个应届硕士毕业生，然后在公司...",
-        "categories": "新能源行业",
+        "description": "categories: 工作职场 tags: - 学习 - 职场 publish: true autoExcerpt: true cover: https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2025/R33fOZ.png我是一个应届硕士毕业生，然...",
+        "categories": "工作职场",
         "tags": [
-          "学习"
+          "学习",
+          "职场"
+        ],
+        "publish": true,
+        "autoExcerpt": true
+      },
+      "catalog": []
+    },
+    {
+      "id": 245079298,
+      "doc_id": "ull659ra0nervw7m",
+      "updated": 1763369337000,
+      "properties": {
+        "title": "如何让大脑变清晰",
+        "urlname": "ull659ra0nervw7m",
+        "date": "2025-11-17 16:01:47",
+        "updated": "2025-11-17 16:48:57",
+        "cover": "https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2025/m2XbeF.png",
+        "description": "categories: 工作职场 tags: - 学习 - 职场 publish: true autoExcerpt: true cover: https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2025/m2XbeF.png如何让大脑变清晰：当你感觉...",
+        "categories": "工作职场",
+        "tags": [
+          "学习",
+          "职场"
         ],
         "publish": true,
         "autoExcerpt": true
@@ -283,10 +305,25 @@
   "catalog": [
     {
       "type": "DOC",
+      "title": "如何让大脑变清晰",
+      "uuid": "wJoU5Rp2srAOJLxN",
+      "url": "ull659ra0nervw7m",
+      "prev_uuid": "",
+      "sibling_uuid": "YNxlMf0QtaKYniuA",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 245079298,
+      "level": 0,
+      "id": 245079298,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
       "title": "从“优秀的执行者”到“能带人做事的负责人”",
       "uuid": "YNxlMf0QtaKYniuA",
       "url": "qpba4x5ww9yyntt3",
-      "prev_uuid": "",
+      "prev_uuid": "wJoU5Rp2srAOJLxN",
       "sibling_uuid": "u9COOak9-8EJ6oBG",
       "child_uuid": "",
       "parent_uuid": "",
