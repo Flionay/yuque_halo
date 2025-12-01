@@ -329,20 +329,93 @@
       "realName": "如何让大脑变清晰",
       "relativePath": "/如何让大脑变清晰.md",
       "docPath": "./docs"
+    },
+    {
+      "id": 246614007,
+      "doc_id": "uoyeflw4myzn2rtx",
+      "updated": 1764587367000,
+      "properties": {
+        "title": "优秀的将领不需要擅长机枪",
+        "urlname": "uoyeflw4myzn2rtx",
+        "date": "2025-11-28 17:08:29",
+        "updated": "2025-12-01 19:09:27",
+        "categories": "工作职场",
+        "tags": [
+          "学习",
+          "职场"
+        ],
+        "publish": true,
+        "autoExcerpt": true,
+        "cover": "https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2025/%E7%94%9F%E6%88%90%E5%B9%B3%E9%9D%A2%E6%8F%92%E7%94%BB.png"
+      },
+      "catalog": [
+        {
+          "title": "工作职场",
+          "doc_id": "uoyeflw4myzn2rtx"
+        }
+      ],
+      "realName": "优秀的将领不需要擅长机枪",
+      "relativePath": "/优秀的将领不需要擅长机枪.md",
+      "docPath": "./docs"
     }
   ],
   "catalog": [
+    {
+      "type": "TITLE",
+      "title": "工作职场",
+      "uuid": "ojXZpja7qlqQ1CMO",
+      "url": "",
+      "prev_uuid": "",
+      "sibling_uuid": "pQtz7MhD17f-Z4sN",
+      "child_uuid": "p78RoQeD0b1P5sJO",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "优秀的将领不需要擅长机枪",
+      "uuid": "p78RoQeD0b1P5sJO",
+      "url": "uoyeflw4myzn2rtx",
+      "prev_uuid": "ojXZpja7qlqQ1CMO",
+      "sibling_uuid": "u9COOak9-8EJ6oBG",
+      "child_uuid": "",
+      "parent_uuid": "ojXZpja7qlqQ1CMO",
+      "doc_id": 246614007,
+      "level": 1,
+      "id": 246614007,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "为什么要进行电力交易",
+      "uuid": "u9COOak9-8EJ6oBG",
+      "url": "mgv0ssvdknwvqk2m",
+      "prev_uuid": "p78RoQeD0b1P5sJO",
+      "sibling_uuid": "wJoU5Rp2srAOJLxN",
+      "child_uuid": "",
+      "parent_uuid": "ojXZpja7qlqQ1CMO",
+      "doc_id": 239895596,
+      "level": 1,
+      "id": 239895596,
+      "open_window": 1,
+      "visible": 1
+    },
     {
       "type": "DOC",
       "title": "如何让大脑变清晰",
       "uuid": "wJoU5Rp2srAOJLxN",
       "url": "ull659ra0nervw7m",
-      "prev_uuid": "",
+      "prev_uuid": "u9COOak9-8EJ6oBG",
       "sibling_uuid": "YNxlMf0QtaKYniuA",
       "child_uuid": "",
-      "parent_uuid": "",
+      "parent_uuid": "ojXZpja7qlqQ1CMO",
       "doc_id": 245079298,
-      "level": 0,
+      "level": 1,
       "id": 245079298,
       "open_window": 1,
       "visible": 1
@@ -353,27 +426,12 @@
       "uuid": "YNxlMf0QtaKYniuA",
       "url": "qpba4x5ww9yyntt3",
       "prev_uuid": "wJoU5Rp2srAOJLxN",
-      "sibling_uuid": "u9COOak9-8EJ6oBG",
+      "sibling_uuid": "",
       "child_uuid": "",
-      "parent_uuid": "",
+      "parent_uuid": "ojXZpja7qlqQ1CMO",
       "doc_id": 244458310,
-      "level": 0,
+      "level": 1,
       "id": 244458310,
-      "open_window": 1,
-      "visible": 1
-    },
-    {
-      "type": "DOC",
-      "title": "为什么要进行电力交易",
-      "uuid": "u9COOak9-8EJ6oBG",
-      "url": "mgv0ssvdknwvqk2m",
-      "prev_uuid": "YNxlMf0QtaKYniuA",
-      "sibling_uuid": "pQtz7MhD17f-Z4sN",
-      "child_uuid": "",
-      "parent_uuid": "",
-      "doc_id": 239895596,
-      "level": 0,
-      "id": 239895596,
       "open_window": 1,
       "visible": 1
     },
@@ -382,7 +440,7 @@
       "title": "旅行生活感悟",
       "uuid": "pQtz7MhD17f-Z4sN",
       "url": "",
-      "prev_uuid": "u9COOak9-8EJ6oBG",
+      "prev_uuid": "ojXZpja7qlqQ1CMO",
       "sibling_uuid": "uUZAVPI1S-TZ1J9w",
       "child_uuid": "ViN4hW0iBj4bHS7d",
       "parent_uuid": "",
