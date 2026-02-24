@@ -333,12 +333,12 @@
     {
       "id": 246614007,
       "doc_id": "uoyeflw4myzn2rtx",
-      "updated": 1764587367000,
+      "updated": 1764591786000,
       "properties": {
         "title": "优秀的将领不需要擅长机枪",
         "urlname": "uoyeflw4myzn2rtx",
         "date": "2025-11-28 17:08:29",
-        "updated": "2025-12-01 19:09:27",
+        "updated": "2025-12-01 20:23:06",
         "categories": "工作职场",
         "tags": [
           "学习",
@@ -357,6 +357,54 @@
       "realName": "优秀的将领不需要擅长机枪",
       "relativePath": "/优秀的将领不需要擅长机枪.md",
       "docPath": "./docs"
+    },
+    {
+      "id": 257642004,
+      "doc_id": "fga3qyfnvxdus7hd",
+      "updated": 1771911473000,
+      "properties": {
+        "title": "从高级工程师到价值设计者：一次关于职业跃迁的系统性思考",
+        "urlname": "fga3qyfnvxdus7hd",
+        "date": "2026-02-24 13:37:41",
+        "updated": "2026-02-24 13:37:53"
+      },
+      "catalog": [
+        {
+          "title": "工作职场",
+          "doc_id": "fga3qyfnvxdus7hd"
+        }
+      ],
+      "realName": "从高级工程师到价值设计者：一次关于职业跃迁的系统性思考",
+      "relativePath": "/从高级工程师到价值设计者：一次关于职业跃迁的系统性思考.md",
+      "docPath": "./docs"
+    },
+    {
+      "id": 257629019,
+      "doc_id": "aaunc17bt8y8ygi7",
+      "updated": 1771911457000,
+      "properties": {
+        "title": "电力系统的第一性原理",
+        "urlname": "aaunc17bt8y8ygi7",
+        "date": "2026-02-24 11:08:55",
+        "updated": "2026-02-24 13:37:37",
+        "categories": "工作职场",
+        "tags": [
+          "学习",
+          "职场"
+        ],
+        "publish": true,
+        "autoExcerpt": true,
+        "cover": "https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2025/%E7%94%9F%E6%88%90%E5%B9%B3%E9%9D%A2%E6%8F%92%E7%94%BB.png"
+      },
+      "catalog": [
+        {
+          "title": "工作职场",
+          "doc_id": "aaunc17bt8y8ygi7"
+        }
+      ],
+      "realName": "电力系统的第一性原理",
+      "relativePath": "/电力系统的第一性原理.md",
+      "docPath": "./docs"
     }
   ],
   "catalog": [
@@ -367,7 +415,7 @@
       "url": "",
       "prev_uuid": "",
       "sibling_uuid": "pQtz7MhD17f-Z4sN",
-      "child_uuid": "p78RoQeD0b1P5sJO",
+      "child_uuid": "H6REv_UPTdmQM92Q",
       "parent_uuid": "",
       "doc_id": "",
       "level": 0,
@@ -377,10 +425,40 @@
     },
     {
       "type": "DOC",
+      "title": "从高级工程师到价值设计者：一次关于职业跃迁的系统性思考",
+      "uuid": "H6REv_UPTdmQM92Q",
+      "url": "fga3qyfnvxdus7hd",
+      "prev_uuid": "ojXZpja7qlqQ1CMO",
+      "sibling_uuid": "DY9vocHiGj2g52Io",
+      "child_uuid": "",
+      "parent_uuid": "ojXZpja7qlqQ1CMO",
+      "doc_id": 257642004,
+      "level": 1,
+      "id": 257642004,
+      "open_window": 1,
+      "visible": 0
+    },
+    {
+      "type": "DOC",
+      "title": "电力系统的第一性原理",
+      "uuid": "DY9vocHiGj2g52Io",
+      "url": "aaunc17bt8y8ygi7",
+      "prev_uuid": "H6REv_UPTdmQM92Q",
+      "sibling_uuid": "p78RoQeD0b1P5sJO",
+      "child_uuid": "",
+      "parent_uuid": "ojXZpja7qlqQ1CMO",
+      "doc_id": 257629019,
+      "level": 1,
+      "id": 257629019,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
       "title": "优秀的将领不需要擅长机枪",
       "uuid": "p78RoQeD0b1P5sJO",
       "url": "uoyeflw4myzn2rtx",
-      "prev_uuid": "ojXZpja7qlqQ1CMO",
+      "prev_uuid": "DY9vocHiGj2g52Io",
       "sibling_uuid": "u9COOak9-8EJ6oBG",
       "child_uuid": "",
       "parent_uuid": "ojXZpja7qlqQ1CMO",
