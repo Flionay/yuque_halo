@@ -361,12 +361,20 @@
     {
       "id": 257642004,
       "doc_id": "fga3qyfnvxdus7hd",
-      "updated": 1771911473000,
+      "updated": 1771912140000,
       "properties": {
         "title": "从高级工程师到价值设计者：一次关于职业跃迁的系统性思考",
         "urlname": "fga3qyfnvxdus7hd",
         "date": "2026-02-24 13:37:41",
-        "updated": "2026-02-24 13:37:53"
+        "updated": "2026-02-24 13:49:00",
+        "categories": "工作职场",
+        "tags": [
+          "学习",
+          "职场"
+        ],
+        "publish": true,
+        "autoExcerpt": true,
+        "cover": "https://angyi.oss-cn-beijing.aliyuncs.com/uPic/2025/%E7%94%9F%E6%88%90%E5%B9%B3%E9%9D%A2%E6%8F%92%E7%94%BB.png"
       },
       "catalog": [
         {
@@ -436,7 +444,7 @@
       "level": 1,
       "id": 257642004,
       "open_window": 1,
-      "visible": 0
+      "visible": 1
     },
     {
       "type": "DOC",
